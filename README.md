@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nirmal Kumar
 
-AI Engineer with hands-on experience in Machine Learning, Computer Vision, and LLM-based systems.
+AI Engineer | Machine Learning | LLM-based Systems | Computer Vision | Python
 
 ### 🔹 Key Projects
 - **DataTalk** – LLM-powered conversational data analysis platform  
