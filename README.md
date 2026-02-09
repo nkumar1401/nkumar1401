@@ -1,8 +1,14 @@
-# Hi, I'm Nirmal kumar bhagatkar 👋
+## 👋 Hi, I'm Nirmal Kumar
 
-## About Me
-I'm a passionate Full stack  Python developer with experience in web development and data analysis. I enjoy building practical solutions and contributing to open-source projects.
-I'm currently learning machine learning and looking for opportunities to collaborate and grow.
+AI Engineer with hands-on experience in Machine Learning, Computer Vision, and LLM-based systems.
+
+### 🔹 Key Projects
+- **DataTalk** – LLM-powered conversational data analysis platform  
+- **RecycleVision** – Garbage image classification using transfer learning
+
+### 🔹 Tech Stack
+Python | Machine Learning | Deep Learning | Computer Vision | LLMs | Docker | Django
+
 
 ## Skills
 - **Languages**: Python, 
